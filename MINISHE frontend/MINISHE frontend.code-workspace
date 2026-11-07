@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../Downloads/Magma-main/Magma-main"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "MINISHE frontend"
+  }
+}
